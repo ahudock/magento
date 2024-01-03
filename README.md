@@ -1,2 +1,1 @@
-# magento
-Magento extensions, scripts, snippets, etc.
+Magento 1 extensions, scripts, snippets, etc.
